@@ -4,7 +4,7 @@ Contact: kevin.m.loew@gmail.com
 
 Last Modified: September 7, 2019
 
-This repository contains my analysis of data from boardgamegeeks.com
+This repository contains my analysis of data from boardgamegeek.com
 
 The data was scrapped with Scrapper.ipynb which was derived from https://sdsawtelle.github.io/blog/output/boardgamegeek-data-scraping.html
 
